@@ -1,7 +1,7 @@
 var C = {
   background: {
     image: 'assets/background.png',
-    scroll: 7,
+    scroll: 70,
     scale: 1
   },
   dodger: {
@@ -13,7 +13,7 @@ var C = {
     starty: 500,
     bounce: 0.3,
     drag: 3000,
-    speed: 8000000
+    speed: 800
   },
   dodgeme: {
     image: 'assets/dodgeme.png',
