@@ -13,7 +13,7 @@ var C = {
     starty: 500,
     bounce: 0.3,
     drag: 3000,
-    speed: 9999999999999999999999999999999999999999999999999999999999999999
+    speed: 800
   },
   dodgeme: {
     image: 'assets/dodgeme.png',
