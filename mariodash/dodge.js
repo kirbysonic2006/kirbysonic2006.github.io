@@ -17,7 +17,7 @@ var C = {
   },
   dodgeme: {
     image: 'assets/dodgeme.png',
-    width: 999999999,
+    width: 64,
     height: 64,
     frames: 1,
     gravity: 800, // set to 0 to just use velocity
